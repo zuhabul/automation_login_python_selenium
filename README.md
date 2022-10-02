@@ -11,7 +11,7 @@ Follow the steps.
     pip3 install -r requirements.txt
     ```
 
-3. Inspect the website you want to automate and the find the text input area you want to fill with your username and password.
+3. Inspect the website you want to automate and the find the text input area and get it's identification that you want to fill with your username and password with
 4. Then run the script
 
     ```sh
